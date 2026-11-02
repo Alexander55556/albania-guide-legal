@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Albania Travel Guide – Support</title>
+<style>
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6;color:#1b1b1b;max-width:720px;margin:0 auto;padding:24px 18px 48px;background:#fff}
+  h1{color:#da291c;margin-bottom:4px}
+  h2{margin-top:32px;border-bottom:2px solid #e4c98a;padding-bottom:4px}
+  a{color:#da291c}
+  .muted{color:#666;font-size:.95em}
+  .card{background:#f7f3ee;border-radius:12px;padding:14px 18px;margin:16px 0}
+</style>
+</head>
+<body>
+<h1>Albania Travel Guide</h1>
+<p class="muted">Support and help</p>
+
+<div class="card">
+  <strong>Contact us:</strong> <a href="mailto:albaniaapp.dev@gmail.com">albaniaapp.dev@gmail.com</a><br>
+  We reply as soon as possible.
+</div>
+
+<h2>Frequently asked questions</h2>
+
+<h3>How do I unlock all places?</h3>
+<p>The first 5 places in every category are free. Tap a locked place, or open <em>Settings &rarr; Unlock All Places</em>, to buy the one-time unlock. It is a single payment, not a subscription, and there are no recurring charges.</p>
+
+<h3>I bought the unlock but the places are still locked</h3>
+<p>Open <em>Settings &rarr; Restore Purchases</em> (or tap <em>Restore Purchases</em> on the unlock screen). Make sure you are signed in with the same Apple ID (iPhone) or Google account (Android) that you used to buy, and that you have an internet connection. If it still does not work, email us and include your platform and the approximate purchase date.</p>
+
+<h3>How do I get a refund?</h3>
+<p>Purchases are handled by Apple or Google, so refunds are requested from the store where you bought the app: on iPhone at <a href="https://reportaproblem.apple.com">reportaproblem.apple.com</a>, on Android in your Google Play order history.</p>
+
+<h3>How do I change the language?</h3>
+<p>Open <em>Settings &rarr; Language</em>. The app is available in English, Italian, German, Albanian, French, Polish, Ukrainian, Czech and Russian.</p>
+
+<h3>How do I build a route?</h3>
+<p>Open a place and tap <em>Add to Route</em>. You can add up to 9 places, then tap <em>Start Route</em> to open them as one multi-stop route in Google Maps.</p>
+
+<h3>Photos or the map do not load</h3>
+<p>The map and place photos need an internet connection. Check your connection, then close and reopen the app. If a place has wrong information or a wrong location, please email us and tell us the place name.</p>
+
+<h3>How do I delete my data?</h3>
+<p>The app has no accounts. Your favorites, route and settings are stored on your device and are removed when you delete the app. See our <a href="delete_data.html">data deletion page</a> for details.</p>
+
+<h2>Legal</h2>
+<p><a href="privacy_policy.html">Privacy Policy</a> &middot; <a href="terms_of_service.html">Terms of Service</a> &middot; <a href="delete_data.html">Delete my data</a></p>
+
+<p class="muted">&copy; 2026 Oleksandr Nalyvaiko</p>
+</body>
+</html>
